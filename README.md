@@ -25,7 +25,7 @@ Click to play
 ## `🌊 Socials`
 
 - Telegram: https://t.me/zentoh
-- Shop: https://tec.sellix.io
+- Shop: https://mms.sellix.io
 - Group: https://t.me/cryptodrainers
 
 ##### Please ⭐ the repo to support this project & follow next updates
