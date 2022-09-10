@@ -24,9 +24,9 @@ Click to play
 
 ## `🌊 Socials`
 
-- Telegram: https://t.me/zentoh
-- Shop: https://mms.sellix.io
-- Group: https://t.me/cryptodrainers
+- Telegram: https://t.me/TecOnSellix
+- Shop: *deleted atm, contact us on Telegram*
+- Group: https://t.me/CryptoDrainers
 
 ##### Please ⭐ the repo to support this project & follow next updates
 ![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
