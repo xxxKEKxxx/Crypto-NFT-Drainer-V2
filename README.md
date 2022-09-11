@@ -1,7 +1,7 @@
 # Welcome! ` [BETA TESTING] `
  ### ⚠️This drainer might be outdated, **message us on [Telegram](https://t.me/TecOnSellix) to buy the lastest version | Educational Purposes only**
 
-### 📩 DM me here: [@TecOnSellix](https://t.me/TecOnSellix) or join our [group](https://t.me/cryptodrainers) to follow updates!
+### 📩 DM us here: [@TecOnSellix](https://t.me/TecOnSellix) or join our [group](https://t.me/cryptodrainers) to Buy uhq drainers/Follow updates!
 
 ---
 ## 💧 NFT Stealer / ETH Stealer / V2 Drainer Template
